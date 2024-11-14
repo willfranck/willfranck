@@ -32,4 +32,4 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=PostgreSQL&logoColor=white" />
 </p>
-<a href="https://github.com/willfranck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=willfranck&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="William Andrew Franck Github Stats" /></a> | <a href="https://github.com/willfranck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willfranck&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/willfranck/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willfranck&layout=compact&theme=buefy&hide_border=true" /></a>
