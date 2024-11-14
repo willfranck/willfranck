@@ -3,7 +3,7 @@
 <p>Welcome to my Github! </br> I'm a Full-Stack Developer by day ... Husky whisperer by night</p>
 
 <h3>🔗 Connect with me</h3>
-<p><a href="https://www.linkedin.com/in/william-franck310" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p><a href="https://www.linkedin.com/in/andrew-franck310" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 <h3>Technical Skills</h3>
 <p>
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJS-FF204E?style=flat-square&logo=nextdotjs&logoColor=white" />  
